@@ -1,0 +1,8 @@
+cat rsrc/test.txt &
+ls
+cd src
+cd
+cd hw3
+echo "Wow" &
+bglist
+exit
